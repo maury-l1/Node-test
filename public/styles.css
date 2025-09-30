@@ -1,0 +1,15 @@
+header{
+    background-color: darkblue;
+    align-content: center;
+    text-align: center;
+
+}
+main {
+    background-color: whitesmoke;
+}
+h1, p{
+    color: whitesmoke;
+}
+body{
+    background-color:bisque;
+}
